@@ -64,11 +64,11 @@ Security Automation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emon-glitch 713&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emon-glitch713&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-glitch 713&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-glitch713&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Security Automation
 ## 🏆 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emon-glitch 713&label=Profile%20Views&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=emon-glitch713&label=Profile%20Views&color=00ff00&style=flat" />
 </p>
 
 ---
