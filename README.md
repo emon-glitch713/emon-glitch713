@@ -27,7 +27,12 @@ Security Automation
 ## ⚡ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Web%20Pentesting-30363d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-30363d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-30363d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Security-30363d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux%20Hardening-30363d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-30363d?style=for-the-badge" />
 </p>
 
 ---
