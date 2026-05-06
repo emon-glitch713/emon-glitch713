@@ -64,7 +64,7 @@ Security Automation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emon-glitch 713&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
