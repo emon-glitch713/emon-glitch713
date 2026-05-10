@@ -71,6 +71,17 @@ Security Automation
 </p>
 
 ---
+---
+## 🏆 My Certifications & Badges
+
+
+| Certification | Issued By | Badge / Link |
+| :--- | :--- | :--- |
+| **Introduction to Cybersecurity** | Cisco | [View Badge](https://www.credly.com/badges/ed8682f3-5003-4897-8eb2-6db4b045545e/public_url)| |
+| **AI and Cyber Security Essentials** | National Cyber Security Agency | [View Certificate]([certificate_for_Final Evaluation AI & Cyber Security Essential - Dakshinsurma, Sylhet.pdf](https://github.com/user-attachments/files/27572458/certificate_for_Final.Evaluation.AI.Cyber.Security.Essential.-.Dakshinsurma.Sylhet.pdf)|
+)| |
+| **Cyber Security Course** | Shopno IT Service & Training Center | [View Certificate](<img width="1204" height="1600" alt="WhatsApp Image 2026-05-10 at 22 06 08 (1)" src="https://github.com/user-attachments/assets/d8dc1b38-87ea-46a4-a14c-09cfe14114cf" />|
+)
 
 ## 🌍 Connect With Me
 
