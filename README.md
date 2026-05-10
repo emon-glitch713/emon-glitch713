@@ -77,7 +77,8 @@ Security Automation
 
 | Certification | Issued By | Badge / Link |
 | :--- | :--- | :--- |
-| **Introduction to Cybersecurity** | Cisco | [View Badge](https://www.credly.com/badges/ed8682f3-5003-4897-8eb2-6db4b045545e/public_url) / [View Certificate]([Introduction_to_Cybersecurity_certificate_e54663932-gmail-com_2e2e2342-1c7a-4494-915d-e790d798682c.pdf](https://github.com/user-attachments/files/27572777/Introduction_to_Cybersecurity_certificate_e54663932-gmail-com_2e2e2342-1c7a-4494-915d-e790d798682c.pdf)|
+| **Introduction to Cybersecurity** | Cisco | [View Badge](https://www.credly.com/badges/ed8682f3-5003-4897-8eb2-6db4b045545e/public_url) / [View Certificate](<img width="1080" height="736" alt="WhatsApp Image 2026-05-10 at 22 36 24" src="https://github.com/user-attachments/assets/ee2bd597-f0e8-4511-9cd4-7544108e54ab" />
+)|
 
 | **AI and Cyber Security Essentials** | National Cyber Security Agency | [View Certificate]([certificate_for_Final Evaluation AI & Cyber Security Essential - Dakshinsurma, Sylhet.pdf](https://github.com/user-attachments/files/27572458/certificate_for_Final.Evaluation.AI.Cyber.Security.Essential.-.Dakshinsurma.Sylhet.pdf)|
 )| |
