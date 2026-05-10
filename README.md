@@ -80,11 +80,11 @@ Security Automation
 | **Introduction to Cybersecurity** | Cisco | [View Badge](https://www.credly.com/badges/ed8682f3-5003-4897-8eb2-6db4b045545e/public_url) / [View Certificate](<img width="1080" height="736" alt="WhatsApp Image 2026-05-10 at 22 36 24" src="https://github.com/user-attachments/assets/ee2bd597-f0e8-4511-9cd4-7544108e54ab" />
 )|
 
-| **AI and Cyber Security Essentials** | National Cyber Security Agency | [View Certificate](<img width="1080" height="769" alt="WhatsApp Image 2026-05-10 at 22 38 27" src="https://github.com/user-attachments/assets/383940c1-e54d-4e1f-96e9-4437a44e59bb" />
+| **AI and Cyber Security Essentials** | National Cyber Security Agency | [View Certificate](<img width="1080" height="769" alt="WhatsApp Image 2026-05-10 at 22 38 27" src="https://github.com/user-attachments/assets/383940c1-e54d-4e1f-96e9-4437a44e59bb" />)|
+
 )|
-)|
-| **Cyber Security Course** | Shopno IT Service & Training Center | [View Certificate](<img width="1204" height="1600" alt="WhatsApp Image 2026-05-10 at 22 06 08 (1)" src="https://github.com/user-attachments/assets/d8dc1b38-87ea-46a4-a14c-09cfe14114cf" />|
-)|
+| **Cyber Security Course** | Shopno IT Service & Training Center | [View Certificate](<img width="1204" height="1600" alt="WhatsApp Image 2026-05-10 at 22 06 08 (1)" src="https://github.com/user-attachments/assets/d8dc1b38-87ea-46a4-a14c-09cfe14114cf" />)|
+
 
 ## 🌍 Connect With Me
 
