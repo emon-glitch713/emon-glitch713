@@ -83,7 +83,10 @@ Security Automation
 ) |
 | **Cyber Security Course** | Shopno IT | [Certificate](<img width="1536" height="1062" alt="WhatsApp Image 2026-05-10 at 22 48 48" src="https://github.com/user-attachments/assets/6fdfd66c-c592-4ecb-9cf4-3d2694d4c350" />
 ) |
-
+| **Cyber Hygiene** | The Asia Foundation & SAJIDA Foundation | [Certificate](<img width="1022" height="722" alt="WhatsApp Image 2026-05-11 at 19 15 35" src="https://github.com/user-attachments/assets/7d7b496d-fb59-4b1b-b4f0-b4266f7d32d9" />
+) |
+| **Introduction to Critical Infrastructure Protection** | OPSWAT Academy | [Certificate](<img width="900" height="710" alt="introduction_to_cip (1)" src="https://github.com/user-attachments/assets/b1eb1b4c-58bb-4e5e-b365-0bc53c990ed8" />
+) |
 ## 🌍 Connect With Me
 
 <p align="left">
