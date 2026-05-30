@@ -90,8 +90,9 @@ Security Automation
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> |
-<a href="YOUR_TELEGRAM_LINK">Telegram</a>
+<a href="https://linkedin.com" target="_blank">LinkedIn</a> | 
+<a href="https://tryhackme.com" target="_blank">TryHackMe</a> | 
+<a href="YOUR_TELEGRAM_LINK" target="_blank">Telegram</a>
 </p>
 
 
