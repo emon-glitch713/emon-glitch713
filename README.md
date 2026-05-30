@@ -90,7 +90,6 @@ Security Automation
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.facebook.com/share/1MrJmczfJR/">Facebook</a> |
 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> |
 <a href="YOUR_TELEGRAM_LINK">Telegram</a>
 </p>
