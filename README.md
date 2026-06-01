@@ -92,9 +92,8 @@ Security Automation
 <p align="left">
 <a href="https://linkedin.com" target="_blank">LinkedIn</a> | 
 <a href="https://tryhackme.com/p/jubed" target="_blank">TryHackMe</a> | 
-<a href="YOUR_TELEGRAM_LINK" target="_blank">Telegram</a>
+<a href="https://tryhackme.com/leaderboards" target="_blank">THM Leaderboard</a>
 </p>
-<hr>
 
 ## 🏆 My TryHackMe Cyber Security Stats & Rankings
 
