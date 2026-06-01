@@ -94,5 +94,22 @@ Security Automation
 <a href="https://tryhackme.com" target="_blank">TryHackMe</a> | 
 <a href="YOUR_TELEGRAM_LINK" target="_blank">Telegram</a>
 </p>
+<hr>
+
+## 🏆 My TryHackMe Cyber Security Stats & Rankings
+
+### 🥇 Country Rank: #1 in Bangladesh (King of the Hill / Monthly Leaderboard)
+* **Current Standing**: Holding the **Rank #1** position in the Bangladesh National Leaderboard on TryHackMe.
+* **Global Level**: Top 15% Worldwide.
+
+<br>
+
+<!-- এখানে আপনার লাইভ স্ট্যাটাস কার্ড শো করবে -->
+[![Jubed's TryHackMe Stats](https://vercel.app)](https://tryhackme.com)
+
+---
+
+### 📊 Proof of Ranking (Leaderboard Screenshot)
+Below is the verified screenshot showcasing the Rank 1 standing in the Bangladesh region: <img width="1366" height="619" alt="WhatsApp Image 2026-06-02 at 00 44 44" src="https://github.com/user-attachments/assets/834f8c72-6dfb-43bd-81e1-c982954403f8" />
 
 
