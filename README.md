@@ -109,6 +109,7 @@ Security Automation
 ---
 
 ### 📊 Proof of Ranking (Leaderboard Screenshot)
-Below is the verified screenshot showcasing the Rank 1 standing in the Bangladesh region: <img width="1366" height="619" alt="WhatsApp Image 2026-06-02 at 00 44 44" src="https://github.com/user-attachments/assets/834f8c72-6dfb-43bd-81e1-c982954403f8" />
+Below is the verified screenshot showcasing the Rank 1 standing in the Bangladesh region: <img width="1366" height="643" alt="WhatsApp Image 2026-06-05 at 13 41 28" src="https://github.com/user-attachments/assets/b53c3ccb-17bb-4c39-b278-312b5cdc0f5e" />
+
 
 
